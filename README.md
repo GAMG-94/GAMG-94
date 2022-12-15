@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="400">
     <h1 align="center">Hi there 👋 I´m GAMG-94</h1>
-    <h3 align="center">Passionate about technology and programming, focused on the Backend, but with a lot of imagination and creativity for the Frontend, I like to create and innovate.</h3>
+    <h3 align="center" font-size="20">Passionate about technology and programming, Fullstack developer, creative and innovative.</h3>
 </div>
 
 
