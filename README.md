@@ -10,6 +10,7 @@
 
 About Me :
 
+
 - 🌱 I’m currently learning JavaScript, NodeJS, Express and I find myself going deeper into Java, Angular, CSS, Tailwind, React, TypeScript, and SQLServer.
 
 - 💬 Ask me about: Java, HTML5, CSS, Angular, MongoDB, MySQL.
