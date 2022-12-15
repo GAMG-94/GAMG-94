@@ -25,8 +25,6 @@ About Me :
 
 <div id="Tools" align="center">
     <h1 align="center">Languages And Tools</h1>
-    <br>
-    <br>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50">
