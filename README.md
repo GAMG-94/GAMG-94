@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-const aboutMe = {
+const GAMG-94 = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS, Java,
    technologies: {
