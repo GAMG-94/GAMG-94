@@ -4,11 +4,10 @@
     <h3 align="center">Passionate about technology and programming, focused on the Backend, but with a lot of imagination and creativity for the Frontend, I like to create and innovate.</h3>
 </div>
 
-<div id="iconos" align="center">
-    <img src="https://img.shields.io/badge/Geovanny%20Mesa-Hi%20Everybody-blue" height="20">
-</div>
 
 ---
+
+
 About Me :
 
 - 🌱 I’m currently learning JavaScript, NodeJS, Express and I find myself going deeper into Java, Angular, CSS, Tailwind, React, TypeScript, and SQLServer.
@@ -19,7 +18,7 @@ About Me :
 
     - pro.potest@gmail.com
 
-    - My Profile in LinkedIn [https://www.linkedin.com/in/geovanny-mesa-6129b31a6/](Geovanny Mesa)
+    - My Profile in LinkedIn [Geovanny Mesa](https://www.linkedin.com/in/geovanny-mesa-6129b31a6/)
 
 <div id="Tools" align="center">
     <h1 align="center">Languages And Tools</h1>
