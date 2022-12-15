@@ -36,4 +36,3 @@ About Me :
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50">
     </div>
 </div>
----
