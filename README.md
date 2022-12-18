@@ -36,5 +36,6 @@ About Me :
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50">
+        <img src="[https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)" title="Python" alt="Python" width="50" height="50">
     </div>
 </div>
