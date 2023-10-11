@@ -17,11 +17,13 @@ About Me :
 
 - 💬 Ask me about: Java, HTML5, CSS, Angular, MongoDB, MySQL, Python.
 
-- 📫 How to reach me: 
+- 📫 How to reach me:
 
-    - pro.potest@gmail.com
-
-    - My Profile in LinkedIn [Geovanny Mesa](https://www.linkedin.com/in/geovanny-mesa-6129b31a6/)
+  - Email:
+    pro.potest@gmail.com
+    
+  - LinkedIn:
+    [Geovanny Mesa](https://www.linkedin.com/in/geovanny-mesa-6129b31a6/)
 
 ---
 
