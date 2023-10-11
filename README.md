@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="400">
+    <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="600">
     <br>
     <h3 align="center" font-size="20" color="#FFF" >Driven by an unyielding passion for technology and programming, I excel as a Front-End Web Developer and Back-End Desktop Application Developer, continually pushing the boundaries of creativity and innovation </h3>
 </div>
@@ -12,6 +12,7 @@ About Me :
 
 
 - 🌱 I am currently improving my skills in Spring Boot, JavaScript, React, Node.js, Express, SQL Server, and delving even deeper into Java, Angular, CSS and TypeScript.
+  <br>
   My commitment to continuous learning and exploration of these technologies reflects my dedication to professional growth in the software development field.
 
 - 💬 Ask me about: Java, HTML5, CSS, Angular, MongoDB, MySQL, Python.
