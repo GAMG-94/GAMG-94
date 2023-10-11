@@ -11,7 +11,7 @@
 About Me :
 
 
-- 🌱 I am currently improving my skills in Spring Boot, JavaScript, React, Node.js, Express, SQL Server, and delving even deeper into Java, Angular, CSS and TypeScript.
+- 🌱 I am currently improving my skills in Spring Boot, JavaScript, Node.js, Express, SQL Server, and delving even deeper into Java, Angular, CSS and TypeScript.
   <br>
   My commitment to continuous learning and exploration of these technologies reflects my dedication to professional growth in the software development field.
 
@@ -28,7 +28,7 @@ About Me :
 ---
 
 <div id="Tools" align="center">
-    <h1 align="center">Languages</h1>
+    <h1 align="center" color="blue">Languages</h1>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50">
@@ -43,7 +43,7 @@ About Me :
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle SQL Developer" alt="Oracle SQL Developer" width="50" height="50">        
     </div>
-    <h1 align="center">Tools</h1>
+    <h1 align="center" color="blue">Tools</h1>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50">        
