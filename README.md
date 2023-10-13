@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="600">
     <br>
-    <h3 align="center" font-size="20" color="#FFF" >Driven by an unyielding passion for technology and programming, I excel as a Front-End Web Developer and Back-End Desktop Application Developer, continually pushing the boundaries of creativity and innovation </h3>
+    <h3 align="center" font-size="20" color="#FFF" >Driven by an unwavering passion for technology and programming, I excel as a Full Stack Web Developer and Desktop Application Developer, continuously pushing the boundaries of creativity and innovation.</h3>
 </div>
 
 
