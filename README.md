@@ -52,5 +52,6 @@ About Me :
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50">
+        <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="POstman" width="50" height="50">
     </div>
 </div>
