@@ -52,6 +52,6 @@ About Me :
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50">
-        <img src="https://www.vhv.rs/dpng/d/499-4996069_postman-logo-circle-hd-png-download.png" title="Postman" alt="Postman" width="50" height="50">
+        <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="50" height="50">
     </div>
 </div>
