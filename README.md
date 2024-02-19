@@ -11,7 +11,7 @@
 About Me :
 
 
-- 🌱 I am currently improving my skills in Spring Boot, JavaScript, Node.js, Express, SQL Server, and delving even deeper into Java, Angular, CSS and TypeScript.
+- 🌱 I am currently deepening my skills in Spring Boot, JavaScript, Node.js, Express, Oracle SQL Developer , and going even deeper in Java, Angular, CSS and TypeScript.
   <br>
   My commitment to continuous learning and exploration of these technologies reflects my dedication to professional growth in the software development field.
 
