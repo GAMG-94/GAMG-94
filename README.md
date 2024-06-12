@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="600">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQwbGJtZnBzdXd4bnh4ZmRzM3MydW85dDdlZW95bjBycHVsNjI4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="700">
     <br>
     <h3 align="center" font-size="20" color="#FFF" >Driven by an unwavering passion for technology and programming, I excel as a Full Stack Web Developer and Desktop Application Developer, continuously pushing the boundaries of creativity and innovation.</h3>
 </div>
@@ -40,11 +40,15 @@ About Me :
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="SpringBoot" alt="SpringBoot" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle SQL Developer" alt="Oracle SQL Developer" width="50" height="50">        
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="MySQL" width="50" height="50">
     </div>
+    <h1 align="center" style="color=blue;">Data Bases</h1>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle SQL Developer" alt="Oracle SQL Developer" width="50" height="50">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50">        
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50">        
+    </div>    
     <h1 align="center" style="color=blue;">Tools</h1>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="50" height="50">
