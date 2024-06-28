@@ -53,6 +53,7 @@ About Me :
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" title="JSON" alt="JSON" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="50" height="50">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="50" height="50">        
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50">        
         <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGinx" alt="NGinx" width="50" height="50">       
         <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="50" height="50">     
