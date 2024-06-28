@@ -54,8 +54,10 @@ About Me :
         <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" title="JSON" alt="JSON" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50">        
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGinx" alt="NGinx" width="50" height="50">       
         <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="50" height="50">     
         <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="Yarn" alt="Yarn" width="50" height="50">
+        <br>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50">
