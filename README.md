@@ -61,6 +61,7 @@ About Me :
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50">
         <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="50" height="50">
     </div>
 </div>
