@@ -64,4 +64,7 @@ About Me :
         <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50">
         <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="50" height="50">
     </div>
+    <div>
+        <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="700">
+    </div>
 </div>
