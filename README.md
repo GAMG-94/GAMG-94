@@ -29,8 +29,8 @@ About Me :
 
 <div id="Tools" align="center">
     <h1 align="center" style="color=blue;">Languages</h1>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="50" height="50">
+    <div style="display: flex; justify-content: space-between; padding: 10px;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="50" height="50" style= padding: 0 10px;>
         <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="Ionic" alt="Ionic" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50">
@@ -50,7 +50,7 @@ About Me :
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50">        
     </div>    
     <h1 align="center" style="color=blue;">Tools</h1>
-    <div>
+    <div style="display: flex; justify-content: space-between; padding: 10px;">
         <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" title="JSON" alt="JSON" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="50" height="50">
         <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="50" height="50">        
